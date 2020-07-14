@@ -8,7 +8,7 @@ The aim of this project is to learn about different embedded systems and learn t
 - download & install **Arduino IDE**.
 - Upload a simple LED blink code on Arduino board using the cable provided with the board. 
 - Create folder LFR_ARDUINO and **git clone https://github.com/98cj/Line-Following-Robot-Using-Arduino.git**
-- Setup the Arduino board connections as shown in the figure.
+- Setup the Arduino board connections.
 - Upload the code on Ardunio board and test.
 
 
